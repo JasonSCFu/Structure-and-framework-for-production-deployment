@@ -1,6 +1,3 @@
-# Model-pipeline-framework
-Model pipeline framework
-
 # <h1 align="center" id="heading">Model pipeline framework</h1>
 
 This pipeline.py outlines the high level architecture of model inference/prediction pipeline in Python. 
